@@ -6,7 +6,7 @@ An [sbt](http://www.scala-sbt.org/) (Simple Build Tool) plugin for adding generi
 
 You can enable the plugin in any given project by adding this into the `project/plugins.sbt` file:
 ```
-addSbtPlugin("com.alpeb" % "sbt-gitignore" % "1.0.0")
+addSbtPlugin("com.alpeb" % "sbt-gitignore" % "1.0.1")
 ```
 
 To have it available in all your projects, add that line into the `~/.sbt/plugins/plugins.sbt` file.

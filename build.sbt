@@ -1,8 +1,10 @@
+import bintray.Keys._
+
 name := "sbt-gitignore"
 
 organization := "com.alpeb"
 
-version := "1.0.0"
+version := "1.0.1"
 
 sbtPlugin := true
 
