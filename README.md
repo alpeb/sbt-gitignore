@@ -9,7 +9,7 @@ You can enable the plugin in any given project by adding this into the `project/
 addSbtPlugin("com.alpeb" % "sbt-gitignore" % "1.0.1")
 ```
 
-To have it available in all your projects, add that line into the `~/.sbt/plugins/plugins.sbt` file.
+To have it available in all your projects, add that line into the `~/.sbt/0.13/plugins/plugins.sbt` file.
 
 ### Usage
 
